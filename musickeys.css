@@ -1,9 +1,15 @@
 canvas {
 	width: 100%;
 	background: black;
+	height: 80%;
 }
 
 body, html {
 	height: 100%;
 	margin: 0;
+}
+
+h1 {
+	font-family: "Lucida Console", Helvetica, sans-serif;\
+	text-align: center;
 }
